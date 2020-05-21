@@ -6,4 +6,4 @@ Core: packages/core/**/*
 
 Components: packages/components/**/*
 
-Shared: packages/shared/**/*
+Shares: packages/shares/**/*
