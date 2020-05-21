@@ -2,7 +2,7 @@ Trader: packages/trader/**/*
 
 Bot: packages/bot/**/*
 
-Core: packages/core/**/*
+Cores: packages/cores/**/*
 
 Components: packages/components/**/*
 
