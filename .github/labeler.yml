@@ -1,9 +1,1 @@
-Trader: packages/trader/**/*
-
-Bot: packages/bot/**/*
-
-Cores: packages/cores/**/*
-
-Components: packages/components/**/*
-
-Shares: packages/shares/**/*
+Test: .github/**/*
